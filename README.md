@@ -1,3 +1,7 @@
+# About Personal Portfolio Project
+# Christiana's Portfolio
+
+This project was developed using the following tools and technologies: React JS, Tailwind CSS, and Javascript. 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
