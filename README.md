@@ -1,7 +1,7 @@
 # About Personal Portfolio Project
 # Christiana's Portfolio
 
-T## his project was developed using the following tools and technologies: React JS, Tailwind CSS, and Javascript. This project is responsive and it displays the project done, skills and background of Christiana Adisa. 
+## This project was developed using the following tools and technologies: React JS, Tailwind CSS, and Javascript. This project is responsive and it displays the project done, skills and background of Christiana Adisa. 
 ## Christiana Adisa is a Front-end developer and is currently in the Stutern Graduate Accelerator Program.
 
 # Getting Started with Create React App
