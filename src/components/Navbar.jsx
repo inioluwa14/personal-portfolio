@@ -9,8 +9,9 @@ const Navbar = () => {
 
   return (
     <div className='bg-black fixed w-full h-[70px] flex justify-between items-center px-4 text-white'>
+        {/* bg-[#0F0103] */}
         <div>
-            <span className='text-pink-600'>TIANA</span>
+            <span className='text-[#FEA6B6] text-2xl font-[900] tracking-[10px]' style={{textShadow: "2px 0px 0 #FEA6B6" }} >TIANA</span>
         </div>
         {/* menu */}
         <ul className='hidden md:flex'>
