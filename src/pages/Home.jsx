@@ -1,15 +1,17 @@
 import React from 'react'
-import pic from '../assets/Christiana.png'
+import pic from '../assets/ini.png'
 import {HiArrowNarrowRight} from 'react-icons/hi'
 import {Link} from 'react-scroll'
 const Home = () => {
   return (
-    <div name='home' className='w-full h-full bg-black pb-[6em]'>
-        <div className='md:flex md:place-items-center md:text-left justify-evenly pt-[9em] '>
+    <div name='home' className='w-full h-full bg-black  pb-[6em]'>
+        {/* bg-[#0F0103] */}
+        <div className='md:flex md:place-items-center md:text-left justify-evenly pt-[4em] '>
             <div className='pb-[4em] text-center'>
                 <p className='text-[12px] text-white'>HELLO!</p>
                 <h1 className='text-[7vh] text-white'>I'm 
                     <span className='text-pink-600 font-extrabold'> Christiana Adisa</span>
+                    {/* text-[#FEA6B6] */}
                 </h1>
                 <h2 className='text-[#8892B0] text-[4vh]'>I'm a FrontEnd Developer</h2>
                 <div className='flex mt-4'>
@@ -32,7 +34,7 @@ const Home = () => {
             </div>
             
             <div className='flex'>
-                <img src={pic} alt="Hero Pic" />
+                <img src={pic} alt="Hero Pic" style={{width:'500px', height:'500px', borderRadius:"20px"}} />
             </div>
             
         </div>
