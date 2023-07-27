@@ -17,9 +17,15 @@ const About = () => {
                         <p>Hi. I am Christiana. Pls take a look around</p>
                     </div>
                     <div>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus, eos doloribus consequuntur minima voluptate nostrum iusto, molestias mollitia expedita nesciunt, distinctio sed aut laudantium sapiente est quo nam officiis odit.
-                        Aliquid neque amet fugit illum non, est quis. Voluptatibus beatae temporibus, nihil fugit sunt ad ab laborum reiciendis, suscipit dolore quidem cum culpa? Id odio magni ipsum debitis ad laboriosam.
-                        Vel, architecto! Aliquid itaque praesentium sequi ullam harum nesciunt sunt unde facere! Fuga minus ab rem eveniet ut nulla, inventore praesentium tenetur? Ex tempora iste sequi doloremque a dicta autem.
+                    I am a Frontend developer and I love bringing designs to live while ensuring good user experience. I am also a Computer Science student 
+                    at the University of Ibadan who loves all things problem solving which includes programming. I started
+                    my programming journey in 2018 when I learnt html/css, Javascript and python. Since
+                    then, I have picked interest in solving problems relating to software
+                    development. 
+                    I have worked on projects to harness my development skills, attended tech programs to be more
+                    informed about the industry, took some leadership positions and volunteered inorder to give back to my community.
+                    I enjoy what I do and I am eager to use my programming experience and communication skills to help 
+                    implement seamless user experience on websites while working in a team. Thank You. 
                     </div>
                 </div>
             {/* </div> */}
